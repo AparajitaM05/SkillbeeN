@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .HeroSection {
+    position: relative;
+    background: white;
+    padding: 20px;
+  }
+
+  /* Adjust dimensions and positions for mobile */
+  .Backpack,
+  .Image13,
+  .Image14,
+  .Image15 {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  /* Adjust styles for mobile */
+  .Frame6,
+  .Group33119,
+  .Group33118 {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+  }
+
+  .Group33119 .CardSend,
+  .Group33118 .ShieldTick {
+    display: inline-block;
+  }
+
+  .Frame10,
+  .Frame11 {
+    text-align: center;
+    margin: 20px 0;
+  }
+
+  .RanselGenali25l01,
+  .Price {
+    text-align: center;
+  }
+
+  /* Adjust font size for mobile */
+  .ExploreTheNightlifeOfYourCity {
+    font-size: 24px;
+  }
+
+  .OutdoorSportingGoodsCompany,
+  .ExploreMore,
+  .AdventureProduct,
+  .OutletInIndonesia {
+    font-size: 14px;
+  }
